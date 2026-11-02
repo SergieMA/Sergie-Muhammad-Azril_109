@@ -1,0 +1,6 @@
+Angka = list(range(1, 21, 2))
+
+for angka in Angka:
+    print(angka)
+    
+    

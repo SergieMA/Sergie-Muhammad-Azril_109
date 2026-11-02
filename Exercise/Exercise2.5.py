@@ -1,0 +1,1 @@
+print('Arthur Schopenhauer said, "Everyone takes the limits of his own field of vision for the limits of the world."') 
