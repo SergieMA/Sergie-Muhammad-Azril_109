@@ -1,0 +1,5 @@
+Di Python, kamu dapat membuat variabel.
+Di Python, kamu dapat menggunakan list untuk menyimpan banyak nilai.
+Di Python, kamu dapat menggunakan perulangan untuk mengulang suatu tindakan.
+Di Python, kamu dapat menggunakan pernyataan if untuk membuat keputusan.
+Di Python, kamu dapat membuat fungsi untuk mengatur kode.
